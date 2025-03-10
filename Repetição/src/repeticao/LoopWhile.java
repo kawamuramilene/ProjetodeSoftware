@@ -2,7 +2,7 @@ package repeticao;
 
 import java.util.Scanner;
 
-public class While_ {
+public class LoopWhile {
 
 	public static void main(String[] args) {
 
